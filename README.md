@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
-  Building intelligent systems with data, machine learning and analytics.
+  Building intelligent systems with data, machine learning, and analytics.
+</p>
+
+<p align="center">
+  Interested in solving real-world problems using data-driven approaches.
 </p>
 
 <p align="center">
@@ -20,7 +24,8 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,mysql,postgres,git,linux,vscode,postman" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
 <p align="center">
@@ -43,6 +48,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usabhishek&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usabhishek&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
 ## Connect
@@ -59,5 +68,5 @@
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by Abhishek kashyap..</sub>
+  <sub>Made with ❤️ by Abhishek Kashyap</sub>
 </p>
